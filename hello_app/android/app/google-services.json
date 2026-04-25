@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939073028985",
+    "firebase_url": "https://hello-app-ccd8c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hello-app-ccd8c",
+    "storage_bucket": "hello-app-ccd8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939073028985:android:afb9878cea49f3ad3965a8",
+        "android_client_info": {
+          "package_name": "com.example.hello_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939073028985-9f09nlg47nd5n2ik0tdk474ip1r5360t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4gl1otOLXxrG4dCRTZNenOCIKUVx4Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939073028985-9f09nlg47nd5n2ik0tdk474ip1r5360t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939073028985-abbppp4bnn8t9u1nkepogulfs4sfb6fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
